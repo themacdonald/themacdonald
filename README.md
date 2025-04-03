@@ -19,7 +19,6 @@ At **Proptverse**, I lead analytics for strategy, tender success, and operations
 
 ---
 ## Some of my Certificates
-- 📜 [Portfolio Assets](https://github.com/user-attachments/assets/cdbab8c5-f579-4a0a-affe-8c7a76e14406)
 - 🏅 [My Credentials](https://www.credential.net/profile/macdonalduwachukwunenye861554/wallet)
 
 
