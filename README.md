@@ -19,7 +19,9 @@ At **Proptverse**, I lead analytics for strategy, tender success, and operations
 
 ---
 ## Some of my Certificates
-![![Crediential](https://github.com/user-attachments/assets/cdbab8c5-f579-4a0a-affe-8c7a76e14406;https://www.credential.net/profile/macdonalduwachukwunenye861554/wallet)
+- 📜 [Portfolio Assets](https://github.com/user-attachments/assets/cdbab8c5-f579-4a0a-affe-8c7a76e14406)
+- 🏅 [My Credentials](https://www.credential.net/profile/macdonalduwachukwunenye861554/wallet)
+
 
 ## 🧰 Tech Stack
 
@@ -35,10 +37,13 @@ At **Proptverse**, I lead analytics for strategy, tender success, and operations
 ## 🚀 Career Highlights
 
 - 📈 Increased Proptverse’s tender win rate by 50% via analytics
+- 💸 Managed a $1M operational budget, delivering a 15% cost reduction through strategic financial planning and rigorous cost control
 - 💸 Reduced operating costs by 15% managing ₦1M+ budgets
+- 👥 Recruited, trained, and led a team of 50+ professionals, reducing staff turnover by 30% and boosting productivity by 40%
 - 🕊️ Deployed dashboards for UN Volunteers enabling mission clarity
 - 🧠 Achieved 30% faster service turnaround via predictive analytics
-- ![image](https://github.com/user-attachments/assets/0dae559a-6fc3-4507-bec3-fcf6518453b0)
+- 📈 Increased Proptverse’s tender win rate by 50% via analytics
+
 
 ---
 
@@ -79,6 +84,7 @@ At **Proptverse**, I lead analytics for strategy, tender success, and operations
 - 🖥️ Former ICT Lead – NYSC
 
 ---
+
 
 ## 📬 Let’s Connect
 
