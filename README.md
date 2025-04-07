@@ -13,7 +13,7 @@
 
 I'm a **CFI, Google and Datacamp-certified data analyst** with over a decade of experience across **IT Support, Network Engineering**, and **Data Analytics**. I deliver clean insights and design compelling dashboards using **Power BI**, **Python**, and **SQL**.
 
-At **Proptverse**, I lead analytics for strategy, tender success, and operations—transforming raw data into execution-ready intelligence.
+I have lead analytics for strategy, tender success, and operations—transforming raw data into execution-ready intelligence.
 
 > “I don’t just analyze data—I engineer clarity.”
 
