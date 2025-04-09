@@ -5,8 +5,7 @@
 #  Hi, I'm Macdonald Uwachukwunenye
 
 🎯 Senior Data Analyst | BI Developer | Technical- Researcher  | Data Architecture Ethusiast
-📍 Nigeria | ✉️ uwadonald15@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/the-madonald) | 💻 [GitHub](https://github.com/themacdonald)
-
+📍 Nigeria | ✉️ uwadonald15@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/the-madonald) 
 ---
 
 ## 🧠 About Me
