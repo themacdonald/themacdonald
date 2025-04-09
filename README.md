@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Empowering+decisions+with+data.;Turning+analytics+into+impact." alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Macdonald Uwachukwunenye
+#  Hi, I'm Macdonald Uwachukwunenye
 
 🎯 Senior Data Analyst | BI Developer | Technical- Researcher  | Data Architecture Ethusiast
 📍 Nigeria | ✉️ uwadonald15@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/the-madonald) | 💻 [GitHub](https://github.com/themacdonald)
