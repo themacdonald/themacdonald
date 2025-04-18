@@ -65,6 +65,7 @@ I have lead analytics for strategy, tender success, and operations—transformin
 ## 📌 Projects
 
 - 🛢️ Oil & Gas Intelligence Dashboard (Power BI – 6 pages)
+- [Social Media Analytics](https://github.com/themacdonald/Social-Media-Analytics/tree/main)
 - 📉 Churn & Retention Modeling (SQL, Tableau)
 - 📚 Public Education Trends ( Gender, Dropouts)
 
