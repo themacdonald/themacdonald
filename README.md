@@ -21,12 +21,10 @@ I have lead analytics for strategy, tender success, and operations—transformin
 - 🏅 [My Credentials](https://www.credential.net/profile/macdonalduwachukwunenye861554/wallet)
 
 ## 🧰 Some Dashboards
-![image](https://github.com/user-attachments/assets/113e28d0-c5e8-4915-86c1-39a27d8ab1a4) ![image](https://github.com/user-attachments/assets/2f43d9fc-23c4-4ca8-8032-f47c53363dd6)
+![Influence Performance](https://github.com/user-attachments/assets/d5b6f7b3-d068-4b4a-8ea8-e0ee38ace6d1)
+ ![image](https://github.com/user-attachments/assets/2f43d9fc-23c4-4ca8-8032-f47c53363dd6)
 ![image](https://github.com/user-attachments/assets/6fef704e-3fb6-40ef-bcd8-a8a7042fc232) ![image](https://github.com/user-attachments/assets/688973d8-1cac-46f9-abf5-bd284c63ee7d)
 ![image](https://github.com/user-attachments/assets/8b231c89-dc29-4a44-9f08-4228c497e772) ![image](https://github.com/user-attachments/assets/d31af182-4eed-4663-85ae-e6af8329fa57)
-![image](https://github.com/user-attachments/assets/2ef87224-82d3-491c-a694-4143258d59f3)
-![image](https://github.com/user-attachments/assets/5811e93e-7391-40cb-80eb-6af480039898) ![image](https://github.com/user-attachments/assets/8976217e-1364-4384-a3d4-df7af0ffdd91)
-
 
 
 ## 🧰 Tech Stack
