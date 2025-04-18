@@ -22,7 +22,6 @@ I have lead analytics for strategy, tender success, and operations—transformin
 
 ## 🧰 Some Dashboards
 ![Influence Performance](https://github.com/user-attachments/assets/d5b6f7b3-d068-4b4a-8ea8-e0ee38ace6d1)
- ![image](https://github.com/user-attachments/assets/2f43d9fc-23c4-4ca8-8032-f47c53363dd6)
 ![image](https://github.com/user-attachments/assets/6fef704e-3fb6-40ef-bcd8-a8a7042fc232) ![image](https://github.com/user-attachments/assets/688973d8-1cac-46f9-abf5-bd284c63ee7d)
 ![image](https://github.com/user-attachments/assets/8b231c89-dc29-4a44-9f08-4228c497e772) ![image](https://github.com/user-attachments/assets/d31af182-4eed-4663-85ae-e6af8329fa57)
 
